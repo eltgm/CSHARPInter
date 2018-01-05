@@ -1,0 +1,39 @@
+{  
+   "lections":[  
+      {  
+         id:"1",
+         status:"1",
+         answers:[  
+            {  
+
+            }
+         ]
+      },
+      {  
+         id:"2",
+         status:"1",
+         answers:[  
+            {  
+               "num":3
+            },
+            {  
+               "num":2
+            },
+            {  
+               "num":3
+            },
+            {  
+               "num":2
+            },
+            {  
+               "num":1
+            }
+         ]
+      }
+   ],
+   "exams":[  
+      {  
+
+      }
+   ]
+}

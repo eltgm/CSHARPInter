@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_LAZAR+SULTANYAROV.1297032881.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="LAZAR+SULTANYAROV.sln" t="IncludeFlat" />
+      <e p="WindowsFormsApp5" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="DBHelper.cs" t="Include" />
+        <e p="DBNames.cs" t="Include" />
+        <e p="ExamForm.Designer.cs" t="Include" />
+        <e p="ExamForm.cs" t="Include" />
+        <e p="ExamForm.resx" t="Include" />
+        <e p="LAZAR+SULTANYAROV.csproj" t="IncludeRecursive" />
+        <e p="LectionForm.Designer.cs" t="Include" />
+        <e p="LectionForm.cs" t="Include" />
+        <e p="LectionForm.resx" t="Include" />
+        <e p="LessonsForm.Designer.cs" t="Include" />
+        <e p="LessonsForm.cs" t="Include" />
+        <e p="LessonsForm.resx" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="LoginForm.Designer.cs" t="Include" />
+        <e p="LoginForm.cs" t="Include" />
+        <e p="LoginForm.resx" t="Include" />
+        <e p="Progress.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include" />
+        <e p="SeminarForm.Designer.cs" t="Include" />
+        <e p="SeminarForm.cs" t="Include" />
+        <e p="SeminarForm.resx" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="parser" t="Include">
+          <e p="Unit.cs" t="Include" />
+        </e>
+        <e p="regStatus.Designer.cs" t="Include" />
+        <e p="regStatus.cs" t="Include" />
+        <e p="regStatus.resx" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
